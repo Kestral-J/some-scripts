@@ -3,9 +3,7 @@ import json
 import datetime
 import random
 import string
-
-
-timesToLoop = 10
+timesToLoop = 100
 retryTimes = 5
 
 
